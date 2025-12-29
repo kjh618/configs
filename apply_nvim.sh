@@ -1,4 +1,3 @@
-#!/bin/sh
+#!/bin/bash
 
-echo Neovim
 cp -Rv .config/nvim ~/.config/
