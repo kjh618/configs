@@ -2,8 +2,10 @@ local wezterm = require 'wezterm'
 
 local config = wezterm.config_builder()
 
-config.initial_cols = 120
-config.initial_rows = 30
+config.initial_cols = 160
+config.initial_rows = 40
+
+config.window_decorations = "INTEGRATED_BUTTONS|RESIZE"
 
 config.enable_scroll_bar = true
 
