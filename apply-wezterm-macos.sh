@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-cp -v .wezterm.lua ~/
+cp -v home/.wezterm.lua ~/
